@@ -2,9 +2,9 @@ plugins:
   - jekyll-remote-theme
 remote_theme: zivong/ockham
 
-title: Cyber Safe
+title: [insert name]
 tagline: Practice Internet Saftey
-description: Cyber Safe
+description: [insert name]
 author:
-  name: shilab
+  name: Shilab
   url: https://github.com/Shilab66
