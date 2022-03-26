@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to [insert name]
 
 You can use the [editor on GitHub](pageTest.md) to maintain and preview the content for your website in Markdown files.
 
