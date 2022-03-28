@@ -1,1 +1,1 @@
-gem "ockham"
+gem "jekyll-remote-theme"
