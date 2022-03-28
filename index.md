@@ -21,6 +21,6 @@ things i hate
 1. lists
 2. irony
 
-✨**look** _at all_ `the different` ###types✨
+✨**look** _at_ <mark>all</mark> `the` <abbr>differnt</abbr> <del>types</del> <sup>of</sup> <sub>text</sub>✨
 
 ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmdf7oyhUnba5zlpyk05SZxmNTGI_b_L4YVXfSQpEI5wzhSLsC5p4z4jKqnk_KiHh_QGg:https://i.imgflip.com/4u5g97.png&usqp=CAU)
