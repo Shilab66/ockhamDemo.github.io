@@ -9,6 +9,7 @@ welcome to the demo text
 ```markdown
 eyyy look its a code block
 ```
+
 # very big
 ## less big
 ### big
@@ -20,6 +21,6 @@ things i hate
 1. lists
 2. irony
 
-**look** _at all_ `the different` text
+✨**look** _at all_ `the different` ###types✨
 
 ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmdf7oyhUnba5zlpyk05SZxmNTGI_b_L4YVXfSQpEI5wzhSLsC5p4z4jKqnk_KiHh_QGg:https://i.imgflip.com/4u5g97.png&usqp=CAU)
