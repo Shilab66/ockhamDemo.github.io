@@ -1,6 +1,6 @@
 ---
 layout: page
 ---
-##About Us
+## About Us
 
 we exist.
